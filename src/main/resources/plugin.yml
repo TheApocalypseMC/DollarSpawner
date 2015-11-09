@@ -1,0 +1,18 @@
+name: ${project.name}
+version: ${project.version}
+description: ${project.description}
+main: com.theapocalypsemc.dollarspawner.DollarSpawner
+author: SirFaizdat
+commands:
+  spawner:
+    description: Set a spawner's type for a cost.
+    aliases: [dollarspawner, dspawner, ds]
+  dsreload:
+    description: Reload DollarSpawner's configuration.
+    usage: /dsreload
+    permission: dollarspawner.dsreload
+    aliases: [dollarspawnerreload, dreload]
+permissions:
+  dollarspawner.dsreload:
+    description: DollarSpawner Reload command.
+    default: op

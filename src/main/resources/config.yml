@@ -1,0 +1,70 @@
+# ================================ #
+#   DollarSpawner Configuration    #
+# ================================ #
+
+# Simply delete the mob from this list if you want to disable it.
+price:
+    creeper:
+        price: -1
+    skeleton:
+        price: -1
+    spider:
+        price: -1
+    giant:
+        price: -1
+    zombie:
+        price: -1
+    slime:
+        price: -1
+    ghast:
+        price: -1
+    pig_zombie:
+        price: -1
+    enderman:
+        price: -1
+    cave_spider:
+        price: -1
+    silverfish:
+        price: -1
+    blaze:
+        price: -1
+    magma_cube:
+        price: -1
+    ender_dragon:
+        price: -1
+    wither:
+        price: -1
+    bat:
+        price: -1
+    witch:
+        price: -1
+    endermite:
+        price: -1
+    guardian:
+        price: -1
+    pig:
+        price: -1
+    sheep:
+        price: -1
+    cow:
+        price: -1
+    chicken:
+        price: -1
+    squid:
+        price: -1
+    wolf:
+        price: -1
+    mushroom_cow:
+        price: -1
+    snowman:
+        price: -1
+    ocelot:
+        price: -1
+    iron_golem:
+        price: -1
+    horse:
+        price: -1
+    rabbit:
+        price: -1
+    villager:
+        price: -1
