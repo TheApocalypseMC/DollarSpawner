@@ -9,6 +9,7 @@ DollarSpawner is a neat little utility that allows users to use the /spawner com
 ## Configuration
 1. Set the prices for each mob by changing ```price: -1``` to the price of your choice. *Please omit the dollar sign!*
 1. If you want to disable a mob from being selected, simply delete it from the configuration.
+
 ## Commands
 * ```/dsreload``` - Reload the plugin
 * ```/spawner``` - Set a spawner's type.
